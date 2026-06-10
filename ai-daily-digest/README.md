@@ -1,5 +1,5 @@
 # AI Daily Digest
 
-Auto-generated every day by **ai-daily-digest-generator** (MeshClaw) — web browsing + LLM writing.
+Auto-generated daily by ai-daily-digest-generator (MeshClaw).
 
-Latest: **2026-06-09** — [view](./2026-06-09.md)
+Latest: 2026-06-10 — [view](./2026-06-10.md)
