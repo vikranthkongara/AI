@@ -2,4 +2,4 @@
 
 Auto-generated daily by ai-daily-digest-generator (MeshClaw).
 
-Latest: 2026-06-19 — [view](./2026-06-19.md)
+Latest: 2026-06-22 — [view](./2026-06-22.md)
